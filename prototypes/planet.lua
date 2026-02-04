@@ -72,7 +72,7 @@ data:extend({
             -- SLATE GREY & PINKISH "BIOLOGICAL FROST"
             ["volcanic-ash-light"] = {}, -- Slate grey ash
             ["volcanic-ash-dark"] = {},
-            ["lowland-pale-dirt"] = {},  -- Pinkish hue from Gleba
+            ["natural-jellynut-soil"] = {},  -- Pinkish hue from Gleba
             ["snow-flat"] = {},         -- Snow cover
             ["snow-lumpy"] = {},
             ["water"] = {},             -- Will represent Ammonia Seas
@@ -81,7 +81,7 @@ data:extend({
         }
       },
       cliff_settings = {
-        name = "cliff-vulcanus", -- Sharp industrial cliffs
+        name = "cliff", -- Sharp industrial cliffs
         cliff_elevation_0 = 10,
         cliff_elevation_interval = 20,
         richness = 1.0
