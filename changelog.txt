@@ -1,0 +1,32 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-02-03
+  Features:
+    - Initial release of Amazonia planet mod
+    - Complete planet with West-to-East gradient map generation
+    - River drifting logistics system with floating crates
+    - Catch-net building for automated crate collection
+    - Ancient Hevea Trees as resource nodes
+    - Siphon pump for latex extraction
+    - Rubber processing chain
+    - World-Root megaproject with tiered progression
+    - Biological Launch system (space elevator effect)
+    - Overgrowth/Reclamation mechanic
+    - Full technology tree with 4 tiers
+    - Custom tiles: jungle grass, dark jungle, rivers
+    - UPS-optimized control scripts
+  
+  Balancing:
+    - Initial recipe and research costs set
+    - Overgrowth deals 5 damage per 20 seconds
+    - Floating crates move at 0.1 tiles per tick on water
+    - Rubber required for advanced belts and space components
+  
+  Graphics:
+    - Using placeholder graphics from base game
+    - All entities reference existing sprites to prevent crashes
+    - Custom graphics support ready (file paths defined)
+  
+  Locale:
+    - English translations for all items, entities, technologies
+    - Descriptive text for all features

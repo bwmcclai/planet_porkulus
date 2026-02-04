@@ -1,0 +1,13 @@
+{
+    "name": "porkulus",
+    "version": "1.1.0",
+    "title": "Porkulus - Industrial Tundra",
+    "author": "Brian McClain",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0",
+        "? any-planet-start"
+    ],
+    "description": "Porkulus is the industrial heart of the galaxy—a sub-zero tundra transformed into a planet-sized factory farm. Manage heat, vaccines, and quality to thrive in this cold, pink-tinted wasteland."
+}
